@@ -5,3 +5,4 @@ Day 14 - Higher or Lower
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (19/12/2023); update tomorrow.
+  Finished practice (20/12/2023); updated.
